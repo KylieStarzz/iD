@@ -2,4 +2,4 @@ permalink: none
 baseurl: http://ideditor.com
 permalink: /:title
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-dinky
